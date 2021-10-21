@@ -25,7 +25,7 @@
     <img src="https://res.cloudinary.com/db9t2jrhe/image/upload/v1634772188/Logo_DoWhile_-_2021_akadls.png" alt="Logo" width="300" height="34">
   </a>
 
-  <h3 align="center">DoWhile 2021 (Front)</h3>
+  <h3 align="center">DoWhile 2021 (Back)</h3>
 
   <p align="center">
     <a href="https://github.com/miguelsndc/backend-dowhile">View Demo</a>
