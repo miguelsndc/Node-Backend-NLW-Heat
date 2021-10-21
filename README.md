@@ -21,18 +21,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/miguelsndc/front-dowhile">
+  <a href="https://github.com/miguelsndc/backend-dowhile">
     <img src="https://res.cloudinary.com/db9t2jrhe/image/upload/v1634772188/Logo_DoWhile_-_2021_akadls.png" alt="Logo" width="300" height="34">
   </a>
 
   <h3 align="center">DoWhile 2021 (Front)</h3>
 
   <p align="center">
-    <a href="https://github.com/miguelsndc/front-dowhile">View Demo</a>
+    <a href="https://github.com/miguelsndc/backend-dowhile">View Demo</a>
     ·
-    <a href="https://github.com/miguelsndc/front-dowhile/issues">Report Bug</a>
+    <a href="https://github.com/miguelsndc/backend-dowhile/issues">Report Bug</a>
     ·
-    <a href="https://github.com/miguelsndc/front-dowhile/issues">Request Feature</a>
+    <a href="https://github.com/miguelsndc/backend-dowhile/issues">Request Feature</a>
   </p>
 </p>
 
@@ -108,7 +108,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/miguelsndc/front-dowhile.git
+   git clone https://github.com/miguelsndc/backend-dowhile.git
    ```
 2. Install NPM packages
    ```sh
